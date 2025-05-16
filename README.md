@@ -1,3 +1,3 @@
-#Tic Tac Toe
+# Tic Tac Toe
 
 This is tic tac toe game 
